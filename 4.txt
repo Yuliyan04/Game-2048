@@ -1,0 +1,5 @@
+egg: 182
+julianss: 180
+pierc: 148
+upp: 136
+farring: 120
