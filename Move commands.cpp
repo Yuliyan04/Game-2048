@@ -337,6 +337,8 @@ void gameplay(int** field, int sizeOfField, int& score)
 			cout << "Game over!" << endl;
 			cout << "Your score is: " << score << endl;
 			break;
+
+			deleteField(field, sizeOfField);
 		}
 	}
 }
